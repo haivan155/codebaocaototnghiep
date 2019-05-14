@@ -1,0 +1,8 @@
+2019-04-20T10:44:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-includes\l10n.php on line 632
+
+2019-04-20T10:44:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-content\plugins\elementor\includes\widgets\image.php on line 4
+
+2019-04-20T10:45:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\controls\class-control-checkboxes.php on line 20
+
+2019-04-20T10:52:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-includes\Requests\Transport\cURL.php on line 163
+

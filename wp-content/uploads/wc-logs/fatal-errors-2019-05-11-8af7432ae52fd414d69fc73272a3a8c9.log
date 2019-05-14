@@ -1,0 +1,4 @@
+2019-05-11T17:13:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-content\plugins\smart-slider-3\nextend\library\loader.php on line 56
+
+2019-05-11T17:24:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\opestek\wp-includes\wp-db.php on line 1924
+

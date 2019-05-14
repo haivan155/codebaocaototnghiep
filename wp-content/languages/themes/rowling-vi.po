@@ -1,0 +1,296 @@
+# Translation of Themes - Rowling in Vietnamese
+# This file is distributed under the same license as the Themes - Rowling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-20 08:22:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Rowling\n"
+
+#. Description of the plugin/theme
+msgid "Rowling is a clean, simple and elegant magazine theme for WordPress. It features a responsive design, great typography, two menu locations, social menu support, custom accent color support, custom logo support, gallery post format support, editor style support, a Flickr widget and recent posts and recent comments widgets with thumbnails. Demo: http://www.andersnoren.se/themes/rowling/"
+msgstr "Rowling là giao diện theo bố cục tạp chí đơn giản nhưng gọn gàng. Nó hỗ trợ giao diện trên thiết bị di động, kích thước chữ dễ nhìn, hai menu, menu mạng xã hội, lựa chọn tông màu chính, tuỳ biến logo, định dạng bài viết thư viện ảnh, widget ảnh Flickr, bài viết mới nhất, bình luận mới nhất với ảnh đại diện. Hỗ trợ 100% ngôn ngữ tiếng Việt. Demo: http://www.andersnoren.se/themes/rowling/"
+
+#. Theme Name of the plugin/theme
+msgid "Rowling"
+msgstr "Rowling"
+
+#: widgets/recent-comments.php:57
+msgctxt "Variables: post title, post date"
+msgid "Comment to %s, posted %s"
+msgstr "Bình luận cho %s, đăng vào %s"
+
+#: search.php:11 search.php:45
+msgid "Search results: \"%s\""
+msgstr "Kết quả tìm kiếm cho \"%s\""
+
+#: content-gallery.php:32 content.php:40
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: content-gallery.php:32 content.php:40
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: content-gallery.php:32 content.php:40
+msgid "0 Comments"
+msgstr "Chưa có bình luận"
+
+#: footer.php:11
+msgid "Theme by %s"
+msgstr "Giao diện bởi %s"
+
+#: widgets/recent-posts.php:122
+msgid "Number of posts to display"
+msgstr "Số bài hiển thị"
+
+#: widgets/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr "Hiển thị bài viết mới nhất."
+
+#: widgets/recent-comments.php:121 widgets/recent-posts.php:124
+msgid "Defaults to 5 if empty"
+msgstr "Mặc định là 5 nếu không chọn"
+
+#: widgets/recent-comments.php:119
+msgid "Number of comments to display"
+msgstr "Số bình luận hiển thị"
+
+#: widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Hiển thị bình luận mới nhất với ảnh đại diện."
+
+#: widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Bình luận mới nhất"
+
+#: widgets/flickr-widget.php:83
+msgid "Number of images to display"
+msgstr "Số ảnh hiển thị"
+
+#: widgets/flickr-widget.php:77
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Flickr ID (sử dụng <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a> để lấy ID)"
+
+#: widgets/flickr-widget.php:71 widgets/recent-comments.php:114
+#: widgets/recent-posts.php:117
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: widgets/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "Hiển thị ảnh mới nhất từ Flickr."
+
+#: widgets/flickr-widget.php:10
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#: single.php:79
+msgid "Pages:"
+msgstr "Trang:"
+
+#: single.php:31 single.php:33
+msgid "Comments"
+msgstr "Phản hồi"
+
+#: single.php:25
+msgid "on"
+msgstr "trong"
+
+#: single.php:25
+msgid "by"
+msgstr "Bởi"
+
+#: single.php:25
+msgid "Posted"
+msgstr "Đã đăng"
+
+#: sidebar.php:25 widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Bài viết mới"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Mẫu tìm kiếm"
+
+#: search.php:57
+msgid "No results. Try again, would you kindly?"
+msgstr "Không có kết quả. Muốn thử lại?"
+
+#: page.php:59 single.php:133
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Không tìm thấy kết quả phù hợp. Vui lòng thử lại."
+
+#: functions.php:645
+msgid "Accent Color"
+msgstr "Tông màu chính"
+
+#: functions.php:619
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Tải lên ảnh logo để thay thế tiêu đề site mặc định trên đầu website."
+
+#: functions.php:617 functions.php:653
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:612
+msgid "Allows you to customize theme settings for Rowling."
+msgstr "Cho phép bạn tuỳ biến giao diện Rowling."
+
+#: functions.php:609
+msgid "Options for Rowling"
+msgstr "Tuỳ chọn cho Rowling"
+
+#: functions.php:573
+msgid "Reply"
+msgstr "Trả lời"
+
+#: functions.php:567
+msgid "Awaiting moderation"
+msgstr "Chờ duyệt"
+
+#: functions.php:539
+msgid "Comment by post author"
+msgstr "Bình luận bởi tác giả"
+
+#: functions.php:523 functions.php:561 page.php:41 single.php:25
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: functions.php:523
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:362
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: functions.php:196
+msgid "Read Next"
+msgstr "Tiếp theo"
+
+#: functions.php:131
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widget ở mục này sẽ hiển thị ở cột bên phải."
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:36
+msgid "Social Menu"
+msgstr "Lựa chọn xã hội"
+
+#: functions.php:35
+msgid "Secondary Menu"
+msgstr "Menu phụ"
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: footer.php:5
+msgid "To the top"
+msgstr "Lên đầu tiên"
+
+#: content-gallery.php:8 content.php:8
+msgid "Sticky post:"
+msgstr "Bài nổi bật:"
+
+#: comments.php:106
+msgid "Leave a Reply to"
+msgstr "Gửi trả lời cho"
+
+#: comments.php:103
+msgid "Leave a Reply"
+msgstr "Trả lời"
+
+#: comments.php:96
+msgid "Comments are Closed"
+msgstr "Bình luận bị đóng"
+
+#: comments.php:76 functions.php:342
+msgid "Next"
+msgstr "Tiếp"
+
+#: comments.php:70 functions.php:294
+msgid "Previous"
+msgstr "Trang trước"
+
+#: comments.php:52
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingbacks"
+
+#: comments.php:28
+msgid "Add Comment"
+msgstr "Gửi bình luận"
+
+#: comments.php:20 comments.php:116 single.php:32
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Bình luận"
+
+#: archive.php:35 index.php:17 search.php:19
+msgid "Page"
+msgstr "Trang"
+
+#: archive.php:25 index.php:15
+msgid "Archive"
+msgstr "Lưu trữ"
+
+#: archive.php:23
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#: archive.php:20
+msgid "Tag: %s"
+msgstr "Thẻ: %s"
+
+#: archive.php:18
+msgid "Category: %s"
+msgstr "Chuyên mục: %s"
+
+#: archive.php:16
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: archive.php:14
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: archive.php:12
+msgid "Date: %s"
+msgstr "Thời gian: %s"
+
+#: 404.php:23
+msgid "You can also return to the %s home page %s and continue your search from there."
+msgstr "Bạn có thể trở lại %s trang chủ %s hoặc thử tìm kiếm ở đây."
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. Either way, you're welcome to search for what you are looking for with the form below."
+msgstr "Nội dung này không tồn tại. Bạn hãy thử tìm kiếm bằng form bên dưới."
+
+#: 404.php:13
+msgid "These are Not the Results You're Looking For"
+msgstr "Không có kết quả phù hợp"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/rowling-wordpress-theme/"
